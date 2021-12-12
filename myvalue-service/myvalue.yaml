@@ -1,1 +1,4 @@
-
+server:
+  port: 8081
+some:
+  value: Mensaje de que estoy en el servidor principal de myvalue
